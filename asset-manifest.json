@@ -1,14 +1,27 @@
 {
   "files": {
-    "main.css": "./static/css/main.68563e20.css",
-    "main.js": "./static/js/main.63300eda.js",
+    "main.css": "./static/css/main.6a797fc1.css",
+    "main.js": "./static/js/main.4475b3e6.js",
     "static/js/206.482fc954.chunk.js": "./static/js/206.482fc954.chunk.js",
     "static/media/photo.jpg": "./static/media/photo.e57a9bc45ea41810d123.jpg",
+    "static/media/python.jpg": "./static/media/python.002b64addc2290a5d284.jpg",
+    "static/media/vsosh10.jpg": "./static/media/vsosh10.0844b6146b5d156d89b5.jpg",
     "static/media/master diplom.jpg": "./static/media/master diplom.6f23592f9b23c98e7d03.jpg",
+    "static/media/matan.jpg": "./static/media/matan.c3f3cf030e24e0c2237b.jpg",
+    "static/media/olymp.jpg": "./static/media/olymp.314d91b2779e671d93ca.jpg",
+    "static/media/ege.jpg": "./static/media/ege.57180abc23c1ba89d4d0.jpg",
+    "static/media/region.jpg": "./static/media/region.d862cdfc25ede11ea960.jpg",
+    "static/media/amsu.jpg": "./static/media/amsu.ba144bf5308e35707fdf.jpg",
+    "static/media/techclass.jpg": "./static/media/techclass.a3c034f8a0e829957183.jpg",
+    "static/media/yandex2024.jpg": "./static/media/yandex2024.1b9cbd0a1e847445d965.jpg",
+    "static/media/yandex2025.jpg": "./static/media/yandex2025.1d04ec932c2ea3d0d5ef.jpg",
+    "static/media/vsosh11.jpg": "./static/media/vsosh11.65dd48c5e431d70cf2e2.jpg",
+    "static/media/knagumath.jpg": "./static/media/knagumath.24d92d8e989eef6df570.jpg",
+    "static/media/knaguphys.jpg": "./static/media/knaguphys.db81786f7d8926c70c8a.jpg",
     "index.html": "./index.html"
   },
   "entrypoints": [
-    "static/css/main.68563e20.css",
-    "static/js/main.63300eda.js"
+    "static/css/main.6a797fc1.css",
+    "static/js/main.4475b3e6.js"
   ]
 }
