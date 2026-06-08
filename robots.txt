@@ -1,3 +1,7 @@
 # https://www.robotstxt.org/robotstxt.html
 User-agent: *
-Disallow:
+Disallow: /student/
+Disallow: /repetitor/
+
+
+Sitemap: https://raw.githubusercontent.com/andrewmaths/andrewmaths.github.io/refs/heads/main/sitemap.xml
